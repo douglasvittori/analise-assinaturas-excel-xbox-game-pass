@@ -45,5 +45,5 @@ Aplicar habilidades de análise de dados no Excel para responder perguntas de ne
 Caso queira conversar sobre este projeto ou sugerir melhorias:
 
 **Douglas Vittori**  
-[Seu LinkedIn](https://www.linkedin.com/in/douglasvittori)  
+[LinkedIn](https://www.linkedin.com/in/douglasvittori)  
 vittoridouglas@gmail.com
