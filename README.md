@@ -30,8 +30,8 @@ Aplicar habilidades de análise de dados no Excel para responder perguntas de ne
 ## 📁 Estrutura do Projeto
 
 📦 analise-assinaturas-excel-xbox-game-pass
-├── base_dados.xlsx # Base de dados com gráficos e análises no Excel
-├── README.md # Documentação do projeto
+- base_dados.xlsx # Base de dados com gráficos e análises no Excel
+- README.md # Documentação do projeto
 
 ## 🧠 Aprendizados
 
